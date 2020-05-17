@@ -1,6 +1,6 @@
 # noteup-public
 
-this is the public version of my noteup application.
+This is the public version of my noteup application.
 
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
@@ -19,17 +19,20 @@ this is the public version of my noteup application.
 -->
 
 <!-- PROJECT LOGO -->
+<h1>Application Screenshots</h1>
 <br />
 <p align="center">
     <img src="src/assets/images/project_screenshots/login.jpg"" alt="Logo" width="120" height="250" />
-    <img src="src/assets/images/project_screenshots/noteslist.jpg" alt="Logo" width="120" height="250" />
-    <img src="src/assets/images/project_screenshots/add_note.jpg" alt="Logo" width="120" height="250" />
-      <img src="src/assets/images/project_screenshots/edit_note2.jpg" alt="Logo" width="120" height="250" />
-
+    <img src="src/assets/images/project_screenshots/allnotes.jpg" alt="allnotes-tab" width="120" height="250" />
+	 <img src="src/assets/images/project_screenshots/allnotes-2.jpg" alt="allnotes-tab-with-message" width="120" height="250" />
+	  <img src="src/assets/images/project_screenshots/notepopup-1.jpg" alt="popup-note-normal" width="120" height="250" />
+    <img src="src/assets/images/project_screenshots/notepopup-2.jpg" alt="popup-note-priority" width="120" height="250" />
+      <img src="src/assets/images/project_screenshots/priority.jpg" alt="priority-tab" width="120" height="250" />
+      <img src="src/assets/images/project_screenshots/sidemenu.jpg" alt="side-menu" width="120" height="250" />
   <h3 align="center">NoteUp</h3>
 
   <div style='list-style-type:none;' align="center">
-    An simple note application.
+    A simple note application.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
