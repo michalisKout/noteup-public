@@ -1,0 +1,28 @@
+export const noteConstants = {
+  REQUEST: 'NOTES_REQUEST',
+  SUCCESS: 'NOTES_SUCCESS',
+  FAILURE: 'NOTES_FAILURE',
+};
+
+export const storeConstants = {
+  REQUEST: 'STORE_NOTE_REQUEST',
+  SUCCESS: 'STORE_NOTE_SUCCESS',
+  FAILURE: 'STORE_NOTE_FAILURE',
+};
+
+export const deleteConstants = {
+  REQUEST: 'DELETE_NOTE_REQUEST',
+  SUCCESS: 'DELETE_NOTE_SUCCESS',
+  FAILURE: 'DELETE_NOTE_FAILURE',
+};
+
+export const updateNoteConstants = {
+  REQUEST: 'UPDATE_NOTE_REQUEST',
+  SUCCESS: 'UPDATE_NOTE_SUCCESS',
+  FAILURE: 'UPDATE_NOTE_FAILURE',
+};
+
+export const currentNoteOptionsConstants = {
+  CLEAR_NOTE_OPTIONS: 'CLEAR_NOTE_OPTIONS',
+  SET_NOTE_PRIORITY: 'SET_NOTE_PRIORITY',
+};

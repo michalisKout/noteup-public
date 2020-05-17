@@ -1,0 +1,17 @@
+export const loginConstants = {
+  REQUEST: 'LOGIN_REQUEST',
+  SUCCESS: 'LOGIN_SUCCESS',
+  FAILURE: 'LOGIN_FAILURE',
+
+  SET_ALREADY_SIGNED_IN_USER: 'SET_ALREADY_SIGNED_IN_USER',
+};
+
+export const registerConstants = {
+  REGISTER_REQUEST: 'REGISTER_REQUEST',
+  REGISTER_SUCCESS: 'REGISTER_SUCCESS',
+  REGISTER_FAILURE: 'REGISTER_FAILURE',
+};
+
+export const logoutConstants = {
+  LOGOUT: 'LOGOUT',
+};

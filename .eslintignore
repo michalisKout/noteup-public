@@ -1,0 +1,5 @@
+  
+config/*.js
+src/**/__snapshots__/**/*
+jest.config.js
+commitlint.config.js
