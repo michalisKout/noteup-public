@@ -34,7 +34,6 @@ This is the public version of my noteup application.
   <div style='list-style-type:none;' align="center">
     A simple note application.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <div>   
