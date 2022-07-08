@@ -31,7 +31,7 @@
     "eslint-plugin-react": "^7.19.0",
     "lint-staged": "^10.1.2",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "normalizr": "^3.6.0",
     "prop-types": "^15.7.2",
     "react": "16.11.0",
